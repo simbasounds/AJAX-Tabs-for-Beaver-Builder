@@ -2,7 +2,7 @@
 /**
  * Plugin Name: AJAX Tabs for Beaver Builder
  * Plugin URI: http://www.wpbeaverbuilder.com
- * Description: Beaver Builder Tabs with AJAX! Pull posts on your website into tabs, or use the regular editor on a tab-by-tab basis. Includes an "Initial Tab" setting to specify the tab to open when the page loads.
+ * Description: Beaver Builder Tabs with AJAX! Pull posts on your website into tabs, or use the regular text editor on a tab-by-tab basis. Includes an "Initial Tab" setting to specify the tab to open when the page loads.
  * Version: 1.0
  * Author: Simon Barnett
  * Author URI: http://www.simonbarnett.co.za
